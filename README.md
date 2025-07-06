@@ -68,3 +68,6 @@ These findings reinforce the importance of choosing **domain-specific, well-tune
 ├── results/                # Outputs: forecasts, plots, evaluation metrics
 ├── thesis.pdf              # Full thesis document (Chatzopoulos_2023)
 └── README.md               # Project documentation (this file)
+
+📚 Citation
+Chatzopoulos, G. (2023). Infectious disease prediction: Modeling dengue incidences in France during 2008–2020. MSc Thesis, Department of Statistics, Athens University of Economics and Business.
