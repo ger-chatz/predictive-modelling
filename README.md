@@ -1,4 +1,4 @@
-# 🦟 Infectious Disease Prediction: Modeling Dengue Incidences in France (2008–2020)
+#  Infectious Disease Prediction: Modeling Dengue Incidences in France (2008–2020)
 
 ##  Overview
 
