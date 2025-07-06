@@ -1,6 +1,6 @@
 # 🦟 Infectious Disease Prediction: Modeling Dengue Incidences in France (2008–2020)
 
-## 📘 Overview
+##  Overview
 
 This repository accompanies my Master's thesis, **"Infectious disease prediction: Modeling dengue incidences in France during 2008–2020"**, submitted to the Department of Statistics at the Athens University of Economics and Business.
 
@@ -8,7 +8,7 @@ The **core objective** of this project was to **develop, implement, and compare 
 
 ---
 
-## 🎯 Main Goals
+##  Main Goals
 
 - Build and implement three advanced time-series predictive models:
   1. **HHH4 model** (a Generalized Linear Model framework for disease counts)
@@ -21,9 +21,9 @@ The **core objective** of this project was to **develop, implement, and compare 
 
 ---
 
-## ⚗️ Methods and Tools
+##  Methods and Tools
 
-### 🧠 Core Predictive Models Used
+###  Core Predictive Models Used
 
 | Model Name            | Description |
 |----------------------|-------------|
@@ -35,7 +35,7 @@ All models were developed and evaluated in **R**, with code provided in the `/sc
 
 ---
 
-## 🧪 Broader Predictive Modeling Context
+##  Broader Predictive Modeling Context
 
 This thesis also explores a wide range of **general predictive modeling approaches**, including:
 
@@ -47,7 +47,7 @@ These were reviewed to understand their theoretical suitability for disease fore
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 - **Weighted HHH4** outperformed the other models in predictive accuracy and robustness, especially in capturing the temporal dynamics of dengue outbreaks.
 - **KCDE** was useful in estimating distributions but had challenges with sharp trend shifts.
@@ -57,7 +57,7 @@ These findings reinforce the importance of choosing **domain-specific, well-tune
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ├── data/                   # Monthly dengue case data (France, 2008–2020)
@@ -69,5 +69,5 @@ These findings reinforce the importance of choosing **domain-specific, well-tune
 ├── thesis.pdf              # Full thesis document (Chatzopoulos_2023)
 └── README.md               # Project documentation (this file)
 
-📚 Citation
+Citation
 Chatzopoulos, G. (2023). Infectious disease prediction: Modeling dengue incidences in France during 2008–2020. MSc Thesis, Department of Statistics, Athens University of Economics and Business.
